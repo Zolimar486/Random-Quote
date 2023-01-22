@@ -19,7 +19,7 @@ body{
 }
 
 .container{
-   width:405px;
+   width:400px;
    display:flex;
    flex-direction: column;
    align-items: center;
